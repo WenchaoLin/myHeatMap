@@ -3,7 +3,7 @@
 
 ## 数据更改
 
-```
+```javascript
 	[
 	{name:'JXI',value:2520.0},
 	 {name:'LIA',value:0},
